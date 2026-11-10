@@ -1,0 +1,23 @@
+{
+ "version": "v2026.11.10-1818",
+ "files": {
+  "fonts/sarabun-latin-400-normal.woff2": "e4c8d9eb25e0f1c7",
+  "fonts/sarabun-latin-500-normal.woff2": "c8e39cbd33c50101",
+  "fonts/sarabun-latin-600-normal.woff2": "010bf17a7bca9e60",
+  "fonts/sarabun-latin-700-normal.woff2": "7ac242ca01033f14",
+  "fonts/sarabun-latin-800-normal.woff2": "4509f48e0d6725e5",
+  "fonts/sarabun-thai-400-normal.woff2": "7255a0ff175fc233",
+  "fonts/sarabun-thai-500-normal.woff2": "1a35f22ee94681b7",
+  "fonts/sarabun-thai-600-normal.woff2": "70ff14667d6156cb",
+  "fonts/sarabun-thai-700-normal.woff2": "08e53442748a876d",
+  "fonts/sarabun-thai-800-normal.woff2": "9cc4ae0391738481",
+  "icons/apple-touch-icon.png": "9de5771c58b5bc11",
+  "icons/favicon-32.png": "2579b268a53de72f",
+  "icons/icon-192.png": "f7eeb00c12f68c34",
+  "icons/icon-512.png": "befe734475ad2e84",
+  "icons/icon-maskable-512.png": "a4929f2f55f01380",
+  "index.html": "01bca0e2d02e5239",
+  "manifest.webmanifest": "3694f1f6f8478dc3",
+  "version.js": "2caf9a757cab956b"
+ }
+}
